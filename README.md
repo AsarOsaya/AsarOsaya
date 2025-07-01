@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Siyabonga 👨🏾‍💻
 
-<!--
-**AsarOsaya/AsarOsaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Web Developer | Future Cloud Security Engineer  
+🔹 Building full-stack apps using C#, Python, HTML/CSS  
+🔹 Learning Azure, DevOps, and cloud infrastructure  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Goals
+- 🎯 Grow my digital solutions agency @WebWorksIO
+- 🌐 Deliver scalable, responsive websites and platforms
+- ☁️ Build and deploy beginner cloud projects (Azure)
+
+---
+
+### 🛠️ Tech Stack
+
+- 💻 Languages: Python, C#, Java, HTML/CSS, JavaScript
+- ⚙️ Frameworks: ASP.NET MVC, Flask
+- ☁️ Cloud: Azure (currently learning), GitHub Actions
+- 🛠️ Tools: Visual Studio, VS Code, SQL Server
+
+---
+
+### 📂 Featured Projects
+Coming soon...
+
+---
+
+### 📫 Connect With Me 
+- Email: Siyafreelance@gmail.com  
+- Portfolio: [WEBWORKSIO](https://www.webworksio.com/)
+
+
+
